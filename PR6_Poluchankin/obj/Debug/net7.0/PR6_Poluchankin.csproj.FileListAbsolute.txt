@@ -1,0 +1,14 @@
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\bin\Debug\net7.0\PR6_Poluchankin.exe
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\bin\Debug\net7.0\PR6_Poluchankin.deps.json
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\bin\Debug\net7.0\PR6_Poluchankin.runtimeconfig.json
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\bin\Debug\net7.0\PR6_Poluchankin.dll
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\bin\Debug\net7.0\PR6_Poluchankin.pdb
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.AssemblyInfoInputs.cache
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.AssemblyInfo.cs
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.csproj.CoreCompileInputs.cache
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.dll
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\refint\PR6_Poluchankin.dll
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.pdb
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.genruntimeconfig.cache
+C:\Users\svato\PR6_Poluchankin\PR6_Poluchankin\obj\Debug\net7.0\ref\PR6_Poluchankin.dll
