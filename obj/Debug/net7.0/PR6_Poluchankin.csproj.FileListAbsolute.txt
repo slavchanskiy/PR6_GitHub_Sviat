@@ -1,0 +1,4 @@
+C:\Users\svato\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svato\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.AssemblyInfoInputs.cache
+C:\Users\svato\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.AssemblyInfo.cs
+C:\Users\svato\PR6_Poluchankin\obj\Debug\net7.0\PR6_Poluchankin.csproj.CoreCompileInputs.cache
